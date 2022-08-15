@@ -25,7 +25,7 @@ Optional parameters are the parameter that hold the array (arr) and the index wh
 3. What is the difference between map and filter?
 
 Your answer: Map create a new array by changing every single element in the array. 
-Filter creates a new array but it removes the elements that dont meet the requirements of the function. 
+Filter creates a new array but it removes the elements that don't meet the requirements of the function. 
 
 Researched answer: Map creates a new array by transforming each individual element in the array. 
 Filter takes an array and filters out unwanted elements. 
