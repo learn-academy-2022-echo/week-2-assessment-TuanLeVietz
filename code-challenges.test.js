@@ -24,7 +24,7 @@ const numbersArray2 = [24, 27, 30, 33, 36]
 
 
 
-// --------------------1) Create a function that takes a object as an argument and decides if the number inside it is evenly divisible by three or not. ✅
+// --------------------1) Create a function that takes a object as an argument and decides if the number inside it is evenly divisible by three or not. 
 // Pseudocode
 
 // a) Create a test with expect statements for each of the variables provided.
@@ -65,7 +65,7 @@ console.log(divThree(object1.number))
 console.log(divThree(object2.number))
 console.log(divThree(object3.number))
 
-// --------------------2) Create a function that takes in an array of words and returns an array with all the words capitalized. ✅
+// --------------------2) Create a function that takes in an array of words and returns an array with all the words capitalized. 
 
 // a) Create a test with expect statements for each of the variables provided.
 
@@ -100,7 +100,7 @@ const firstCap = (array) => {
 console.log(firstCap(randomNouns1))
 console.log(firstCap(randomNouns2))
 
-// --------------------3) Create a function that takes in a string and logs the index of the first vowel. ✅
+// --------------------3) Create a function that takes in a string and logs the index of the first vowel. 
 
 
 // a) Create a test with expect statements for each of the variables provided.
